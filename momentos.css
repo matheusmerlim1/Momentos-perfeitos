@@ -1,0 +1,37 @@
+.jumbotron{
+    background-image: url(img/vitrine.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.hall{
+    padding: 40px 0;
+}
+.hall-title{
+    padding-top:80px;
+}
+.hall-image{
+    max-height: 200px;
+
+}
+.hall-portrait{
+    background-color: #000;
+}
+.hall-buttom{
+    padding:5px 50px;
+}
+.media img{
+    width: 64px;
+    height: 64px;
+}
+.media p{
+    max-width: 15ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+col-2 i{
+    padding: 40px 0;
+    gap: 10px;
+    text-align: end;
+}
